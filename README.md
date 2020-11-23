@@ -1,5 +1,5 @@
-# tweet-analysis
-COMP8240 Applications of Data Science: Twitter Data Analysis
+# Twitter Data Analysis
+COMP8240 Applications of Data Science
 
 ## Overall Goal
 Tweets from two users were collected and analyzed following the analysis conducted on Donald Trump's tweets: [Text analysis of Trump's tweets confirms he writes only the (angrier) Android half](http://varianceexplained.org/r/trump-tweets/). For this project, US politician Alexandria Ocasio-Cortez ([@AOC](https://twitter.com/AOC)) and celebrity Kim Kardashian ([@KimKardashian](https://twitter.com/KimKardashian)) were used as examples but the code can be used with any (public) Twitter profiles.
